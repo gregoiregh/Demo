@@ -16,6 +16,7 @@ namespace Demo
 
         public double Perimetre()
         {
+            return Rayon * Math.PI;
         }
 
         public override string ToString()
