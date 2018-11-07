@@ -13,6 +13,11 @@ namespace Demo
         {
             this.Rayon = rayon;
         }
+
+        public double Perimetre()
+        {
+        }
+
         public override string ToString()
         {
             return $"Rayon = {Rayon}";
